@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Food Nutrition Finder</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🥗 Food Nutrition Finder</h1>
+    <p class="description">
+      Enter any food item below to instantly get its nutrition facts.<br/>
+      <small>Try examples like: <em>banana</em>, <em>egg</em>, <em>chicken</em>, <em>rice</em>...</small>
+
+    </p>
+    <div class="search-box">
+      <input type="text" id="foodInput" placeholder="Type a food name..." />
+      <button onclick="fetchNutrition()">Check</button>
+    </div>
+    <div id="result"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
