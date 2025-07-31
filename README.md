@@ -7,7 +7,7 @@ This is a simple Node.js + Express web application that allows users to search f
 ## 📽 Demo Video
 
 Watch a short demo showing how to run and use the app locally and through a load balancer:  
-👉 [YouTube Demo Link]()
+👉 [YouTube Demo Link](https://youtu.be/dTZNRw2YN1M])
 
 ---
 
