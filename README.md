@@ -46,5 +46,5 @@ This API provides nutritional facts for any common food item.
 ### ✅ 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/nutrition-checker-app.git
-cd nutrition-checker-app
+git clone https://github.com/acele-happy/web_infrastructure_Assignement
+cd web_infrastructure_Assignement
